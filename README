@@ -27,7 +27,7 @@ The material for this demo is adapted from a chapter I wrote with Guido van
 Rossum for an upcoming book in the Architecture of Open Source Applications
 series:
 
-https://github.com/aosabook/500lines/blob/master/crawler/chapter.md
+https://github.com/aosabook/500lines/blob/master/crawler/crawler.markdown
 
 The chapter presents a far more sophisticated code example than is demo'ed
 here, and covers the relevant ideas in much greater depth and detail.
